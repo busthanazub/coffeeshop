@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(230, 183, 151);
+    color: rgb(100, 47, 10);
+    font-size: 500%;
+}
+
+*{
+    background-color: rgb(253, 225, 204);
+    color:rgb(48, 25, 9);
+    padding-left:  1%;
+    padding-right: 1%;
+    margin: 2%;
+}
+img:hover{
+    transform: scale(1.2);
+ /* transition: scale(1.0); */
+}
